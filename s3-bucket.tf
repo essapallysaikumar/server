@@ -1,5 +1,5 @@
 provider "aws" {
-resource = "aws_s3_bucket" "example" 
+resource = "aws_s3_bucket" "one" 
   bucket = "qwertyu876543"
 
   tags = {
